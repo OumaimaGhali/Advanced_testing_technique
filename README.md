@@ -1,5 +1,5 @@
-# Advanced_testing_technique
-advanced testing
+# Testing_technique
+ testing
 
 ## Setup
 
