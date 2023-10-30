@@ -1,0 +1,5 @@
+pylint
+flask
+pytest
+pytest-cov
+click
