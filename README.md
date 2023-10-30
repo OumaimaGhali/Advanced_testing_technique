@@ -29,5 +29,5 @@ all: install lint test
 ```
 ### how to debug
 * Print
-* pdp
+* pdb
 * testing
